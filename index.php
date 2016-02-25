@@ -27,7 +27,7 @@ and open the template in the editor.
 session_start();
 if( $_SESSION['usuario'] == "raul"){
     
-    echo "<h1>Aqui esta el sistema</h1>";
+    echo "<h1>Acceso al sistema</h1>";
     //echo "Bienvenido".$_SESSION['usuario'];
     
 }
